@@ -7,9 +7,9 @@ from telethon import TelegramClient, events
 import logging
 import json
 
-with open("text/keywords.json") as json_file:
+with open("text/keyword.json") as json_file:
     data = json.load(json_file)
-    keyWord = data["keywords"]
+    keyWord = data["keyword"]
     editedKeywords = []
     for i in range(len(keyWord)):
         new = keyWord[i].upper()
