@@ -1,7 +1,7 @@
 # telegrambot
 forward messages
 
-[install telethon](https://docs.telethon.dev/en/latest/basic/installation.html)
+[install telethon library](https://docs.telethon.dev/en/latest/basic/installation.html)
 
 [sign in and make an api using your own telegram acct](https://docs.telethon.dev/en/latest/basic/signing-in.html#id2)
 ***
