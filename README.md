@@ -10,9 +10,8 @@ forward messages
 2. keywords add to json obj
 
 3. add -100 in front of group name
-receivefrom
+receivefrom, 
 sendto
 
 # Run main.py to start the bot
-======
 enter your phone number and the code sent to login to telegram
